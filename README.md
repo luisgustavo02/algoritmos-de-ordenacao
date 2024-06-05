@@ -1,3 +1,3 @@
 # Algoritmos de Ordenação
 
-Conjunto de diversos algoritmos de ordenação em *linguagem C*
+Conjunto de diversos algoritmos de ordenação em *linguagem C* e *Python*.
