@@ -1,2 +1,3 @@
-# algoritmos-de-ordenacao
-Conjunto de diversos algoritmos de em diferentes linguagens
+# Algoritmos de Ordenação
+
+Conjunto de diversos algoritmos de ordenação em *linguagem C*
